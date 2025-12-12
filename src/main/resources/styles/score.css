@@ -1,0 +1,31 @@
+/* Style for the score label */
+.score-label {
+    -fx-font-family: "Arial";
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-fill: yellow;
+    -fx-translate-x: 15px;
+    -fx-translate-y: 30px;
+}
+
+/* Style for each score digit */
+.score-digit {
+    -fx-font-size: 30px;
+    -fx-translate-y: 5px;
+}
+
+/* Style for the bonus score text */
+.bonus-text {
+    -fx-font-family: "Arial";
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-fill: gold;
+}
+
+/* Style for the minus score text */
+.minus-text {
+    -fx-font-family: "Arial";
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-fill: red;
+}

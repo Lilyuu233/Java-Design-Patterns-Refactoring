@@ -1,0 +1,32 @@
+/* Time bar default style */
+.time-bar {
+    -fx-fill: green;
+    -fx-arc-width: 15px;
+    -fx-arc-height: 15px;
+    -fx-translate-x: 500px;
+    -fx-translate-y: 10px;
+}
+
+/* Time bar warning style */
+.time-bar-warning {
+    -fx-fill: orange;
+}
+
+/* Time bar danger style */
+.time-bar-danger {
+    -fx-fill: red;
+}
+
+/* Time bar timeout style */
+.time-bar-timeout {
+    -fx-fill: gray;
+}
+
+/* Time label style */
+.time-label {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-fill: yellow;
+    -fx-translate-x: 430px;
+    -fx-translate-y: 30px;
+}

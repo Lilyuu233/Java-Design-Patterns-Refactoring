@@ -1,0 +1,8 @@
+.level-label {
+    -fx-font-family: "Arial";
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-fill: yellow;
+    -fx-translate-x: 250px;
+    -fx-translate-y: 30px;
+}

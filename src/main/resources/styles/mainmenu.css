@@ -1,0 +1,41 @@
+.root-layout {
+    -fx-background-color: #3E5596;
+}
+
+.menu-layout {
+    -fx-spacing: 30;
+    -fx-alignment: center;
+    -fx-padding: 50 0 0 0;
+}
+
+.header-banner {
+    -fx-fit-width: 600px;
+    -fx-preserve-ratio: true;
+}
+
+.button-container {
+    -fx-spacing: 40;
+    -fx-alignment: center;
+}
+
+.menu-button {
+    -fx-font-family: Arial;
+    -fx-font-weight: bold;
+    -fx-font-size: 25px;
+    -fx-text-fill: limegreen;
+    -fx-background-color: black;
+    -fx-border-color: limegreen;
+    -fx-border-width: 2px;
+    -fx-pref-width: 400px;
+    -fx-pref-height: 50px;
+}
+
+.menu-button:hover {
+    -fx-text-fill: yellow;
+    -fx-cursor: hand;
+}
+
+.frog-icon {
+    -fx-fit-width: 30px;
+    -fx-fit-height: 30px;
+}
